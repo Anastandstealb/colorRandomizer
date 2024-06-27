@@ -6,7 +6,7 @@ color selected
 
 ## How it works
 - we are generating random color using "UIColor" , "CGFloat"(used for generating float numbers), 
-- we are appending these thus genrated numbers in the colors array 
+- we are appending these thus genrated colors in the colors array 
 -  we generate table using table delegate and datasource
     - in this we have two function 
         - numberOfRowsInSection
